@@ -5,10 +5,10 @@ Baxter is an industrial robot built by Rethink Robotics. It has two 7 DOF arms, 
 This repo consists of the code specific to the Computer Vision track of the project. For the code of the entire project, refer to https://github.com/wpi-dynamics-spring-2019-baxter/BaxterObjectSorting 
 
 The overall system architecture is as follows:
-![alt text] (https://github.com/akshay-iyer/ObjectIdentification_ComputerVision/blob/master/images/Screenshot%20from%202019-05-08%2012-05-16.png)
+![alt text] (https://github.com/akshay-iyer/ObjectIdentification_ComputerVision/tree/master/images/Screenshot%20from%202019-05-08%2012-05-16.png)
 
 The Baxter world was setup in Gazebo:
-![alt text] (https://github.com/akshay-iyer/ObjectIdentification_ComputerVision/blob/master/images/world.png)
+![alt text] (https://github.com/akshay-iyer/ObjectIdentification_ComputerVision/tree/master/images/world.png)
 
 The steps involved in classifying fruits is as follows:
 1. Dual Threshold HSV segmentation for apples and bananas 
