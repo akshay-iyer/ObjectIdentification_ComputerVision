@@ -8,7 +8,7 @@ The overall system architecture is as follows:
 ![alt text] (https://github.com/akshay-iyer/ObjectIdentification_ComputerVision/tree/master/images/Screenshot%20from%202019-05-08%2012-05-16.png)
 
 The Baxter world was setup in Gazebo:
-![alt text] (https://github.com/akshay-iyer/ObjectIdentification_ComputerVision/tree/master/images/world.png)
+![alt text] (https://github.com/akshay-iyer/ObjectIdentification_ComputerVision/blob/master/images/world.png)
 
 The steps involved in classifying fruits is as follows:
 1. Dual Threshold HSV segmentation for apples and bananas 
